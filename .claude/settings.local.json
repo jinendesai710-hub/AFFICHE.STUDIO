@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp /c/Users/Jinen/.claude/image-cache/6889c062-0895-4cca-b1cc-81056467b63f/7.png C:/Users/Jinen/Desktop/Affiche.studios/assets/posters/movie-07-recursion.png)",
+      "Bash(cp /c/Users/Jinen/.claude/image-cache/6889c062-0895-4cca-b1cc-81056467b63f/8.png C:/Users/Jinen/Desktop/Affiche.studios/assets/posters/movie-08-decay.png)",
+      "Bash(cp /c/Users/Jinen/.claude/image-cache/6889c062-0895-4cca-b1cc-81056467b63f/9.png C:/Users/Jinen/Desktop/Affiche.studios/assets/posters/quote-01-detachment.png)",
+      "Bash(cp /c/Users/Jinen/.claude/image-cache/6889c062-0895-4cca-b1cc-81056467b63f/10.png C:/Users/Jinen/Desktop/Affiche.studios/assets/posters/quote-02-main-character.png)",
+      "Bash(cp /c/Users/Jinen/.claude/image-cache/6889c062-0895-4cca-b1cc-81056467b63f/11.png C:/Users/Jinen/Desktop/Affiche.studios/assets/posters/quote-03-quit.png)",
+      "Bash(py *)"
+    ]
+  }
+}
